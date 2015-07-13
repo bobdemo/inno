@@ -1,0 +1,5 @@
+<Context antiJARLocking="true" path="/innolayer">
+  <Environment name="NODES" override="false" type="java.lang.String" value="http://x,y,z:8091/pools,http://x,y,z:8091/pools,http://x,y,z:8091/pools"/>
+  <Environment name="PASS" override="false" type="java.lang.String" value="password_bucket"/>
+  <Environment name="BUCKET" override="false" type="java.lang.String" value="nome_bucket"/>
+</Context>

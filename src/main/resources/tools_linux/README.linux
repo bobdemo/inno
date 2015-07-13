@@ -1,0 +1,27 @@
+#####################################################################
+## 
+## Inno Web APP 
+##
+## Quick Start in a Linux Ubuntu Server 12.04 
+
+1. Import Inno project into NetBeans and read the README.md file
+
+2. Install Couchbase Server 2.2 Community Edition: 
+         http://www.couchbase.com/download
+
+3. Create the cluster and the bucket "inno"
+
+4. Configure the /META-INF/context.xml file in the project 
+
+5. Compile the war file
+
+6. Deploy the WEB-APP into Tomcat7
+
+####### Import ShapeFile Data into couchbase "inno" bucket
+ 
+1. Unzip the InnoImportShapeFile and see the README.txt file
+
+######################################################################
+
+
+
