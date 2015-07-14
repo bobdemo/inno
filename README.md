@@ -1,13 +1,13 @@
-################################################################################
+
 ## Inno Web app
-##
-## Autore: Roberto Demontis
-## Email: demontis@crs4.it
-## © CRS4, 2015
+#
+# Autore: Roberto Demontis
+# Email: demontis@crs4.it
+# © CRS4, 2015
 
 This project contains the source code and resources of the "Inno" Web App.
 
-It was developed for the project INNO (http://inno.crs4.it/innomanager). 
+It was developed for the INNO project (http://inno.crs4.it/innomanager). 
 
 The web app is a RestFul interface for the access to gis data stored in a 
 couchbase database (http://www.couchbase.com/).
@@ -19,7 +19,7 @@ couchbase in a Linux environment.
 An example of the web app can be found at http://inno.crs4.it/inno
 
 ################################################################################
-
+--------------------------------------------------------------------------------
 Questo progetto contiene il codice sorgente e le risorse dell'applicazione 
 web "Inno"  sviluppata per il progetto INNO (http://inno.crs4.it/innomanager). 
 
