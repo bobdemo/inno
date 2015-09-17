@@ -14,10 +14,12 @@ couchbase database (http://www.couchbase.com/).
 
 The "resources" folder of this distribution also contains the tool 
 "InnoImportShapeFile" that allows to import a zipped Esri shapefile into
-couchbase in a Linux environment. 
+couchbase in a Linux environment.
 
 An example of the web app can be found at http://inno.crs4.it/inno
+
 --------------------------------------------------------------------------------
+
 Questo progetto contiene il codice sorgente e le risorse dell'applicazione 
 web "Inno"  sviluppata per il progetto INNO (http://inno.crs4.it/innomanager). 
 
