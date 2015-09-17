@@ -1,9 +1,9 @@
 
-## Inno Web app
-#
-# Autore: Roberto Demontis
-# Email: demontis@crs4.it
-# © CRS4, 2015
+# Inno Web app
+
+**Autore**: Roberto Demontis
+**Email**: demontis@crs4.it
+© CRS4, 2015
 
 This project contains the source code and resources of the "Inno" Web App.
 
@@ -17,8 +17,6 @@ The "resources" folder of this distribution also contains the tool
 couchbase in a Linux environment. 
 
 An example of the web app can be found at http://inno.crs4.it/inno
-
-################################################################################
 --------------------------------------------------------------------------------
 Questo progetto contiene il codice sorgente e le risorse dell'applicazione 
 web "Inno"  sviluppata per il progetto INNO (http://inno.crs4.it/innomanager). 
@@ -32,4 +30,3 @@ zip dentro couchbase in un ambiente Linux.
 
 Un esempio dell'applicazione si può trovare all'indirizzo http://inno.crs4.it/inno
 
-################################################################################
